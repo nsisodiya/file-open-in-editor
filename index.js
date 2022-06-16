@@ -35,4 +35,4 @@ class FileOpener extends HTMLElement {
   }
 }
 
-window.customElements.define('file-opener', FileOpener);
+window.customElements.define('file-open-in-editor', FileOpener);

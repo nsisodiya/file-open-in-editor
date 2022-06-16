@@ -1,9 +1,9 @@
 {
-  "name": "file-opener",
-  "description": "Webcomponent file-opener following open-wc recommendations",
+  "name": "file-open-in-editor",
+  "description": "Webcomponent file-open-in-editor following open-wc recommendations",
   "license": "MIT",
-  "author": "file-opener",
-  "version": "0.0.1",
+  "author": "file-open-in-editor",
+  "version": "0.0.0",
   "main": "index.js",
   "module": "index.js",
   "files": [
