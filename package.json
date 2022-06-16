@@ -6,6 +6,9 @@
   "version": "0.0.1",
   "main": "index.js",
   "module": "index.js",
+  "files": [
+    "index.js"
+  ],
   "scripts": {
     "analyze": "cem analyze",
     "start": "web-dev-server",
