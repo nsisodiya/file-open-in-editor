@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+  <head>
+    <meta charset="utf-8" />
+    <style>
+      body {
+        background: #fafafa;
+      }
+    </style>
+    <script type="module">
+      import '../file-opener.js';
+    </script>
+  </head>
+  <body>
+    <div id="demo">File Opener Demo</div>
+    <file-opener
+      src="src/pages/People/PeopleDashboard/PeopleDashboard.js"
+    ></file-opener>
+    <div
+      style="
+        position: relative;
+        background: lightblue;
+        height: 400px;
+        width: 200px;
+        margin: 300px;
+      "
+    >
+      This is Demo
+      <file-opener
+        src="src/pages/People/PeopleDashboard/PeopleDashboard.js"
+      ></file-opener>
+    </div>
+  </body>
+</html>
