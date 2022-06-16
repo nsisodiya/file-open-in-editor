@@ -3,7 +3,7 @@
   "description": "Webcomponent file-open-in-editor following open-wc recommendations",
   "license": "MIT",
   "author": "file-open-in-editor",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "module": "index.js",
   "files": [
